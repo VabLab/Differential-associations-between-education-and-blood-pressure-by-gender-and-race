@@ -1,5 +1,6 @@
 # Differential-associations-between-education-and-blood-pressure-by-gender-and-race
-Code for the "Differential associations between education and blood pressure by gender and race" publication
+Code for the "Differential associations between education and blood pressure by gender and race" publication.
+Link to paper: https://link.springer.com/article/10.1186/s12889-025-23409-5 
 
 # Authors
 Lucia Pacca, Amanda M Irish, Catherine dP Duarte, Alicia R Riley, Mark J Pletcher, Zinzi D Bailey & Anusha M Vable 
